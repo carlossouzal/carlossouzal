@@ -1,5 +1,5 @@
 ### Hi there, I'm Carlos. 👋
-- 🔭 I’m currently working on Logus Tecnologia.
+- 🔭 I’m currently working at Unimed Ponta Grossa.
 - 🌱 I’m currently learning Java and JavaScript.
 - 📚 I'm currently studing Computer Science.
 
