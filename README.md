@@ -1,7 +1,7 @@
 ### Hi there, I'm Carlos. 👋
-- 🔭 I’m currently working at Unimed Ponta Grossa.
-- 🌱 I’m currently learning Java and JavaScript.
-- 📚 I'm currently studing Computer Science.
+- 🔭 I’m currently working at CeDRI - IPB using Java and React Native.
+- 🌱 I’m currently learning GoLang.
+- 📚 I'm currently studying Computer Science at IPB.
 
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
